@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">多线程断点续传下载</string>
+    <string name="input_path">请输入下载文件的路径：</string>
+    <string name="input_threadcount">请输入线程的数量：</string>
+    <string name="btn_download">下载</string>
+    <string name="btn_stop">暂停</string>
+</resources>
